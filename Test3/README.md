@@ -1,1 +1,4 @@
-Kompleksitas kode dengan hasil O(n) berarti kode tersebut memiliki kompleksitas waktu yang seimbang dengan ukuran masukan (n). Artinya, ketika ukuran masukan (n) bernilai satu, waktu yang diperlukan untuk mengeksekusi kode bernilai satu juga atau dengan kata lain seimbang.
+
+# Penjelasan Kompleksitas Kode Program
+
+Fungsi "main" akan membaca string input, menghapus spasi, dan kemudian memanggil fungsi "isBalanced", fungsi "main" memiliki kompleksitas waktu O(n), di mana n adalah panjang string input. Fungsi "isBalanced" memiliki kompleksitas waktu O(n), di mana n adalah panjang string masukan, dan kompleksitas waktunya konstan untuk setiap iterasi. Secara keseluruhan Kompleksitas kode diatas adalah O(n), Hal ini didapatkan karena hanya ada satu pengulangan dalam fungsi "isBalanced". Artinya, ketika ukuran masukan (n) bernilai satu, waktu yang diperlukan untuk mengeksekusi kode bernilai satu juga atau dengan kata lain seimbang. 
