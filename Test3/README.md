@@ -1,0 +1,1 @@
+Kompleksitas kode dengan hasil O(n) berarti kode tersebut memiliki kompleksitas waktu yang seimbang dengan ukuran masukan (n). Artinya, ketika ukuran masukan (n) bernilai satu, waktu yang diperlukan untuk mengeksekusi kode bernilai satu juga atau dengan kata lain seimbang.
